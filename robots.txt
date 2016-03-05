@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow:/baby
+Disallow:/children
+Disallow:/family
+Disallow:/hsc
+Disallow:/maternity
+Disallow:/wedding

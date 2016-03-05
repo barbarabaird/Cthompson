@@ -1,0 +1,79 @@
+.main { padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 500px; 
+width: 500px;}
+
+
+.main h1 { text-align: center; }
+
+a:link {color: #f57d20;}
+a:visited {color:#75b5ad;}
+
+p {font-size: 16px;}
+
+ label {
+    font-weight: bold;
+    display: block;
+    margin: 0px 0px 5px;
+    font-size: 18px;
+}
+
+ #name { 
+    background-color: #e4dece;
+    height:18px; 
+    width:150px;
+
+     }
+
+#emailaddress { 
+    background-color: #e4dece;
+    height:18px; 
+width: 150px;
+}
+
+#type h3 {font-size: 18px;
+}
+
+#type {font-size: 14px;
+}
+
+#info h3 {font-size: 18px;
+}
+
+ #comment textarea{
+    height:100px;
+    padding: 5px 0px 0px 5px;
+    width: 50%;
+    background-color: #e4dece;
+}
+
+.button {
+
+    width: 100px;
+    background: #a4d0ca;
+    color: #585858;
+    border-radius: 2px;
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    text-shadow: 1px 1px 1px #a4d0ca;
+    font-weight: bold;
+    font-size: 16px;
+    box-shadow: 1px 1px 1px #3D3D3D;
+    -webkit-box-shadow:1px 1px 1px #3D3D3D;
+    -moz-box-shadow:1px 1px 1px #3D3D3D;
+}
+
+ .button:hover {
+    color: #333;
+    background-color: #EBEBEB;
+}
+
+
+
+
+
+
+
+
+
+
